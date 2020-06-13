@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Derrick</string>
+    <string name="first_name">Enter your first Name</string>
+    <string name="second_name">Enter your second Name</string>
+    <string name="email">Enter your Email</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="register">Register/Login</string>
+    <string name="submit">Submit</string>
+</resources>
